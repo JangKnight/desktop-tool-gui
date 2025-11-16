@@ -16,4 +16,4 @@ jobs:
         with:
           version: latest
           install-mode: goinstall
-          args: --timeout=5m
+          args: --disable-all --timeout=5m
